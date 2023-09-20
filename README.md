@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm J4kc 👋
+
+![gif](https://github.com/J4CK-M-H/J4CK-M-H/assets/107339262/6e05b70e-9e95-44d6-b0c0-abe8ab6075a1)
 
 <!--
 **J4CK-M-H/J4CK-M-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
