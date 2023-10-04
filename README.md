@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Jack Meza</h1>
+<h1 align="center">Hi 👋, I'm Jack</h1>
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/b5/13/28/b51328854f9214688f594d76b7a45a49.gif" width="250"/>
 </div>
