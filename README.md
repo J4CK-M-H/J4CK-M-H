@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **MEARN, MEAN**
 
-- 📫 How to reach me **jack.meza.hinostroza@gmail.com**
-
 - ⚡ Fun fact **I'm very patient**
 
 <h3 align="left">Connect with me:</h3>
