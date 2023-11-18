@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate frontend developer</h3>
 
-- 💬 Ask me about **MEARN, MEAN**
+- 💬 Ask me about **MEARN**
 
 - ⚡ Fun fact **I'm very patient**
 
