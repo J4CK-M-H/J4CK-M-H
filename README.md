@@ -5,7 +5,7 @@
   <img src="https://i.pinimg.com/originals/b5/13/28/b51328854f9214688f594d76b7a45a49.gif" width="250"/>
 </div>
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 💬 Ask me about **MEARN**
 
